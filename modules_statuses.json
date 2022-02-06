@@ -1,0 +1,6 @@
+{
+    "Contact": true,
+    "Category": true,
+    "Product": true,
+    "Order": true
+}
